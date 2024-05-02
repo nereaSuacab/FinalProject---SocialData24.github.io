@@ -7,14 +7,7 @@ title: Final Project
 ---
 
 ## Final Project Social Data
+Pulsa aquí
 
-<h2>Latest Posts</h2>
+[Link Text](/_posts/post1.md)
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.date | date_to_string }}</p>
-    </li>
-  {% endfor %}
-</ul>
