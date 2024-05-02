@@ -7,3 +7,14 @@ title: Final Project
 ---
 
 ## Final Project Social Data
+
+<h2>Latest Posts</h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.date | date_to_string }}</p>
+    </li>
+  {% endfor %}
+</ul>
