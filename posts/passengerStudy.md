@@ -5,6 +5,10 @@ author: Your Name
 tags: [tag1, tag2, tag3]
 ---
 
-# Your Post Title
+# General Analysis
 
-Visualize the geographical distribution of passenger traffic by summarizing passenger counts based on GEO Summary or GEO Region. Explore which regions have the highest passenger volumes and how they differ.
+<iframe src="images/air_traffic_by_continent.html" width="100%" height="500px"></iframe>
+
+<iframe src="images/map_heatmap.html" width="100%" height="500px"></iframe>
+
+<iframe src="images/line_regions.html" width="100%" height="500px"></iframe>
