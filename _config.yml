@@ -21,8 +21,8 @@
 title: Final Project - Social Data Analysis and Visualization 2024
 email: s233132@dtu.dk / s233219@dtu.dk / s212246@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Revealing insights into seasonal trends, airline performance, 
-  geography, terminals, pricing, and temporal patterns.
+  Revealing insights into temporal trends, airline performance, 
+  geography, terminals, and historical events.
 baseurl: "/FinalProject---SocialData24.github.io" # the subpath of your site, e.g. /blog
 url: "https://nereasuacab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
