@@ -1,7 +1,7 @@
 ---
 title: "Trends Over Time"
 date: 2024-05-01
-author: Your Name
+author: Paula Gambús i Moreno
 tags: [tag1, tag2, tag3]
 ---
 

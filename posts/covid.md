@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Trends in Passenger Traffic"
+title: "COVID-19"
 date: 2024-05-01
 author: Your Name
 tags: [tag1, tag2, tag3]
