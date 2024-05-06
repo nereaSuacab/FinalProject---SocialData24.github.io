@@ -7,4 +7,4 @@ tags: [tag1, tag2, tag3]
 
 # Your Post Title
 
-Analyze how passenger counts vary throughout the year based on activity period start dates. Identify peak travel seasons and any seasonal patterns.
+<iframe src="images/area_covid.html" width="100%" height="500px"></iframe>

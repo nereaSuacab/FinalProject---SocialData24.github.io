@@ -26,16 +26,11 @@ The interactive graph below provides a visual representation of passenger count 
 
 <iframe src="images/airline_passenger_counts.html" width="100%" height="500px"></iframe>
 
-Moreover, we can also see the seasonal fluctuations align with typical travel patterns ([Seasonal Trends in Passenger Traffic](seasons.md)), as summer months often see increased vacation travel and tourism. Conversely, February tends to experience lower travel demand due to factors such as colder weather and fewer holidays.
+Moreover, we can also see the seasonal fluctuations align with typical travel patterns ([Temporal Evolution](temporalEvolution.md)), as summer months often see increased vacation travel and tourism. Conversely, February tends to experience lower travel demand due to factors such as colder weather and fewer holidays.
 
 # Important Accidents
 
-The impact of the 9/11 terrorist attacks on the aviation industry is palpable and profound. As depicted in the graph below, which illustrates the fluctuation in air traffic volume over time, there is a noticeable and abrupt decline in flight activity immediately following the events of September 11, 2001. This sharp downturn reflects the unprecedented grounding of all civilian aircraft within the United States airspace by the Federal Aviation Administration (FAA) in the aftermath of the attacks.
-
-![Alt text](images/11S_airlines.png)
-In the days and weeks following 9/11, commercial flights were suspended, airports were temporarily shut down, and stringent security measures were implemented across the globe. This unprecedented disruption to air travel had far-reaching consequences for airlines, airports, and related industries, resulting in significant financial losses and operational challenges.
-
-The impact of accidents on airlines can be significant, affecting not only the airline directly involved, but also the wider aviation ecosystem, including airports and other airlines. While major accidents, such as the 9/11 attacks, have had profound and lasting effects on the entire industry, individual incidents can also have significant repercussions.
+The impact of accidents on airlines can be significant, affecting not only the airline directly involved, but also the wider aviation ecosystem, including airports and other airlines. While major accidents, such as the 9/11 attacks ([11S](11S.md)), have had profound and lasting effects on the entire industry, individual incidents can also have significant repercussions.
 
 In the case of San Francisco International Airport (SFO), where two Air Canada accidents occurred in 2017, there could have been repercussions for Air Canada's operations and for the airport as a whole. 
 
