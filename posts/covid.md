@@ -18,4 +18,14 @@ As it could have been seen in the [Trends Over Time](/temporalEvolution.md), the
 
 The distribution of the passengers in 2019 is the typical one that follows the seasonal patterns. This means that in the summer months, the amount of travelers increases because of the holiday and the good weather. As it was explained at the beginning, Covid-19 appeared at the end of 2019, however, until March of 2020 it din't become real. At that moment, there is a noticeable fall in the number of people traveling but it is not until April when the lowest peak appeared. This fact could have been caused because in March, some people were still traveling to go back to their homes because of the different added restrictions.
 
+# Geographical Analysis
+As it has been explained in [Geographical Distribution of Passenger Traffic](passengerStudy.md), COVID-19 is one of the historical facts we can see by taking a quick look at the visualizations.
+
+Figure 2 provides a nuanced view of the pandemic's effects, particularly regarding the implementation of travel restrictions across different regions. Notably, Europe experienced a sharp decline in flight volumes, mirroring the severity of the virus's impact on the continent.
+
+Regions such as Asia, Europe, and Canada maintained lower flight volumes even as restrictions eased, reflecting ongoing caution and adherence to safety protocols. This cautious approach likely stemmed from concerns about potential virus resurgence and the emergence of new variants.
+
+In contrast, regions like the US, Mexico, and the Middle East witnessed a gradual rebound in air travel activity starting in 2021. This resurgence can be attributed to several factors, including the successful rollout of vaccination campaigns, the gradual relaxation of travel restrictions, and pent-up demand for travel after prolonged periods of lockdowns and restrictions.
+
 <iframe src="images/area_covid.html" width="100%" height="500px"></iframe>
+<p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
