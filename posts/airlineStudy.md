@@ -11,8 +11,9 @@ As of 2024, there are 56 different airlines operating at SFO. However, this hasn
 
 
 ![Alt text](images/airline_passenger_counts.png)
+<p style="text-align:center; font-size:small;"><strong>Figure 1:</strong> <em>Top 10 Airlines in terms of passenger counts</em></p>
 
-The graph above highlights the top ten airlines in terms of passenger count from 1999 to 2024. It highlights the top ten airlines in terms of passenger count from 1999 to 2024. There are two airlines that stand out as the dominant ones throughout this period. The merger between United and Continental Airlines in 2013 is the reason for the apparent change in the ranking of airlines.
+The graph in Figure 1 highlights the top ten airlines in terms of passenger count from 1999 to 2024. It highlights the top ten airlines in terms of passenger count from 1999 to 2024. There are two airlines that stand out as the dominant ones throughout this period. The merger between United and Continental Airlines in 2013 is the reason for the apparent change in the ranking of airlines.
 
 # Airlines through history
 
@@ -22,9 +23,10 @@ However, the airline landscape at SFO has witnessed more than just mergers. Some
 
 On the other hand, some airlines have maintained a consistent presence at SFO. JetBlue Airways, although founded in 1998, began operating at SFO in 2007. In contrast, Southwest Airlines experienced a hiatus from 2001 to 2006 due to operational challenges and high airport fees. However, advancements in technology and fee reductions prompted Southwest's return to SFO in 2006.
 
-The interactive graph below provides a visual representation of passenger count trends for the highlighted airlines:
+The interactive graph in Figure 2 provides a visual representation of passenger count trends for the highlighted airlines:
 
 <iframe src="images/airline_passenger_counts.html" width="100%" height="500px"></iframe>
+<p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Monthly flow of the top 10 airlines</em></p>
 
 Moreover, we can also see the seasonal fluctuations align with typical travel patterns ([Temporal Evolution](temporalEvolution.md)), as summer months often see increased vacation travel and tourism. Conversely, February tends to experience lower travel demand due to factors such as colder weather and fewer holidays.
 
@@ -37,3 +39,4 @@ In the case of San Francisco International Airport (SFO), where two Air Canada a
 Analysis of Air Canada flight data prior to the COVID-19 pandemic reveals a slight decrease in activity, especially around the time of the accidents. While it is difficult to attribute this decline exclusively to the accidents, they may have contributed to a temporary drop in passenger demand or to operational adjustments by the airline.
 
 ![Alt text](images/canada_accidents.png)
+<p style="text-align:center; font-size:small;"><strong>Figure 3:</strong> <em>Montly flow of Air Canada airline</em></p>

@@ -21,11 +21,11 @@ The distribution of the passengers in 2019 is the typical one that follows the s
 # Geographical Analysis
 As it has been explained in [Geographical Distribution of Passenger Traffic](passengerStudy.md), COVID-19 is one of the historical facts we can see by taking a quick look at the visualizations.
 
-Figure 2 provides a nuanced view of the pandemic's effects, particularly regarding the implementation of travel restrictions across different regions. Notably, Europe experienced a sharp decline in flight volumes, mirroring the severity of the virus's impact on the continent.
+Figure 2 provides an overview of the effects of the pandemic, particularly in terms of the implementation of travel restrictions in the different regions. In particular, Europe experienced a sharp decline in flight volumes, reflecting the severity of the impact of the virus on the continent.
 
-Regions such as Asia, Europe, and Canada maintained lower flight volumes even as restrictions eased, reflecting ongoing caution and adherence to safety protocols. This cautious approach likely stemmed from concerns about potential virus resurgence and the emergence of new variants.
+Regions such as Asia, Europe and Canada maintained lower flight volumes even as restrictions were eased, reflecting continued caution and compliance with security protocols. This caution was likely due to concerns about the possible resurgence of the virus and the emergence of new variants.
 
-In contrast, regions like the US, Mexico, and the Middle East witnessed a gradual rebound in air travel activity starting in 2021. This resurgence can be attributed to several factors, including the successful rollout of vaccination campaigns, the gradual relaxation of travel restrictions, and pent-up demand for travel after prolonged periods of lockdowns and restrictions.
+In contrast, regions such as the US, Mexico and the Middle East experienced a gradual upturn in aviation activity from 2021 onwards. This resurgence can be attributed to several factors, including the success of vaccination campaigns, the gradual relaxation of travel restrictions and the pent-up demand for travel after long periods of blockades and restrictions.
 
 <iframe src="images/area_covid.html" width="100%" height="500px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
