@@ -20,3 +20,21 @@ The flunctuations of the amount of passengers during the years are noticeable an
 
 <iframe src="images/passengers_type_yearly.html" width="100%" height="530px"></iframe>
 
+EXPLANATION ABOUT:
+- similarities between enplaned and deplaned passenger count
+- 11S and Iraq war in 2003
+- Covid
+
+## Monthly analysis
+It is time to turn the attention to the monthly analysis, where we delve deeper into the data to uncover seasonal patterns and other valuable insights. Therefore, different fluctuations in passenger counts on a month-to-month basis are detected. Again, firstly, the total amount of passengers per month without taking into account the type was evaluated calculating the mean between all the years from our dataset.
+
+<iframe src="images/total_passengers_monthly.html" width="100%" height="530px"></iframe>
+
+Different conclusions could be made after analyzing this plot but firstly, we wanted to observe too the evolution of the number of passengers according to their type.
+
+<iframe src="images/passengers_type_monthly.html" width="100%" height="550px"></iframe>
+
+EXPLANATION ABOUT:
+- again similarities between enplaned and deplaned passenger count
+- february as the lowest month
+- high peaks in summer months
