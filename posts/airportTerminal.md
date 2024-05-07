@@ -20,7 +20,7 @@ Today the San Francisco airport h comprises four terminals—Terminal 1, Termina
 Terminal 1 (Boarding Area B), Terminal 2 (Boarding Areas C and D), and Terminal 3 (Boarding Areas E and F) handle domestic and precleared flights. The International Terminal (Boarding Areas A and G) handles international flights and some domestic flights.  
 Given the seasonal fluctuations inherent in airport data, it becomes imperative to conduct year-on-year comparisons. Therefore, our analysis zooms in on the evolution of boarding areas utilization at San Francisco Airport across different years. By examining these trends, we aim to uncover any significant shifts or patterns in passenger traffic volumes over time.
 
-<iframe src="images/terminal_heatmap.html" width="1000px" height="1000px"></iframe>
+<iframe src="images/terminal_heatmap.html" width="1000px" height="920px"></iframe>
 
 The map illustrates the evolution of passenger numbers per boarding area throughout the period in exam. Overall there is an upward trend in passenger traffic at San Francisco Airport, notwithstanding occasional setbacks triggered by significant events such as the COVID-19 pandemic and the aftermath of September 11th.
 

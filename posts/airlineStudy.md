@@ -33,7 +33,7 @@ On the other hand, some airlines have maintained a consistent presence at SFO. J
 
 The interactive graph in Figure 2 provides a visual representation of passenger count trends for the highlighted airlines:
 
-<iframe src="images/airline_passenger_counts.html" width="100%" height="500px"></iframe>
+<iframe src="images/airline_passenger_counts.html" width="100%" height="430px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Monthly flow of the top 10 airlines</em></p>
 
 Moreover, we can also see the seasonal fluctuations align with typical travel patterns ([Temporal Evolution](temporalEvolution.md)), as summer months often see increased vacation travel and tourism. Conversely, February tends to experience lower travel demand due to factors such as colder weather and fewer holidays.

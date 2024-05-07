@@ -45,7 +45,7 @@ Regions such as Asia, Europe and Canada maintained lower flight volumes even as 
 
 In contrast, regions such as the US, Mexico and the Middle East experienced a gradual upturn in aviation activity from 2021 onwards. This resurgence can be attributed to several factors, including the success of vaccination campaigns, the gradual relaxation of travel restrictions and the pent-up demand for travel after long periods of blockades and restrictions.
 
-<iframe src="images/area_covid.html" width="100%" height="500px"></iframe>
+<iframe src="images/area_covid.html" width="100%" height="640px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
 
 <!-- Back button -->
