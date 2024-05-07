@@ -5,6 +5,14 @@ author: Your Name
 tags: [tag1, tag2, tag3]
 ---
 
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 # Terminal and Boarding Area Analysis
 
 The aim of this section is to show the busiest terminals and boarding areas and analyze any differences in passenger traffic patterns. 
@@ -25,3 +33,11 @@ Boarding area F is also the one with more gates. Its high density of activity ca
 BY looking at the evolution over time it can also been seen that the boarding area D has been inactive for 9 years, from 2001 to 2009. The reason for this inactivity cannot be found, it is suspectable that this was due to construction and mantainance works.
 
 To sum up the San Francisco airport growed over the years,  Boarding Area F emerges as the focal point of activity, with a high density of gates and a consistent association with United Airlines, the airport's primary carrier renowned for extensive domestic flight operations. Our analysis unveils a reorganization of passenger traffic across different boarding areas over time
+
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>

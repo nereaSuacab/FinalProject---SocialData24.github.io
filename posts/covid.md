@@ -5,6 +5,14 @@ author: Your Name
 tags: [tag1, tag2, tag3]
 ---
 
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 # COVID-19
 
 In late 2019, a new coronavirus, COVID-19, surfaced in Wuhan, China, rapidly evolving into a global pandemic. The rapid spread of the virus triggered unprecedented global reactions, leading to implementation of lockdowns, travel bans, and social distancing mandates. As a consequence, the aviation industry faced challenges since travel restrictions and plummeting demand led to a sharp decline in flights. Therefore, SFO felt the impact as passenger volumes dwindled, airlines canceled routes and stringtent health protocols were implemented. In this section, these consequences are studied through different visualizations.
@@ -39,3 +47,11 @@ In contrast, regions such as the US, Mexico and the Middle East experienced a gr
 
 <iframe src="images/area_covid.html" width="100%" height="500px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
+
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>

@@ -5,6 +5,14 @@ author: Your Name
 tags: [tag1, tag2, tag3]
 ---
 
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 # General Information
 
 As of 2024, there are 56 different airlines operating at SFO. However, this hasn't always been the case. Delving into historical data dating back to 1999, we find that a total of 137 different airlines have operated at the airport over the years, reflecting the dynamic nature of the aviation industry.
@@ -40,3 +48,11 @@ Analysis of Air Canada flight data prior to the COVID-19 pandemic reveals a slig
 
 ![Alt text](images/canada_accidents.png)
 <p style="text-align:center; font-size:small;"><strong>Figure 3:</strong> <em>Montly flow of Air Canada airline</em></p>
+
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>

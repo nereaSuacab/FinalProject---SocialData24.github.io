@@ -5,6 +5,14 @@ author: Your Name
 tags: [tag1, tag2, tag3]
 ---
 
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 # General Analysis
 
 The San Francisco International Airport (SFO) is one of the busiest and most iconinc airports in the United States.
@@ -48,3 +56,11 @@ The second event is the Great Recession, triggering a severe global economic dow
 Finally, the impact of COVID-19 on different regions and the subsequent travel restrictions can be observed. Further details are available in (COVID-19).
 
 Furthermore, it's noteworthy to observe that the Middle East connection began in 2008 and continues to date. In contrast, the South America connection commenced in 2010 when San Francisco International Airport (SFO) emerged as a new gateway for travel between the United States and South America, specifically to Peru. This development likely coincided with LAN Airlines, now part of LATAM Airlines Group, introducing new non-stop flight service between SFO and Peru, offering convenient travel options for passengers between the two regions.
+
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>

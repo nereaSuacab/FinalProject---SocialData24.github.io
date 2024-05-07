@@ -4,6 +4,15 @@ date: 2024-05-01
 author: Paula Gambús i Moreno
 tags: [tag1, tag2, tag3]
 ---
+
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 # Temporal patterns
 
 In this section there is our exploration into San Francisco Airport's (SFO) data landscape. As one of the busiest airports in the world, SFO serves as a bustling hub connecting millions of travelers to destinations worldwide. Within this dynamic environment, understanding the temporal patterns and trends of the airport's operations gives a lot of valuable insights. Therefore, we embark on a journey through time, delving into monthly and yearly rythms. 
@@ -52,3 +61,10 @@ Conversely, the number of passengers during the summer months, specially July an
 
 Finally, mention that in October, there is a small difference with the previous and following month on the amount of passengers. This is because in this month, five famous festivals take place so that is why the number of arrivals increases more than the departures one. These festivals are the Hardly Strictly Bluegrass, the Fleet Week, the Castro Street Fair, the Italian Heritage Parade and the Litquake.
 
+<!-- Back button -->
+<button onclick="goBack()">Back</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
