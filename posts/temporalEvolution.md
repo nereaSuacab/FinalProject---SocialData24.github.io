@@ -4,7 +4,6 @@ date: 2024-05-01
 author: Paula Gambús i Moreno
 tags: [tag1, tag2, tag3]
 ---
-
 # Temporal patterns
 
 In this section there is our exploration into San Francisco Airport's (SFO) data landscape. As one of the busiest airports in the world, SFO serves as a bustling hub connecting millions of travelers to destinations worldwide. Within this dynamic environment, understanding the temporal patterns and trends of the airport's operations gives a lot of valuable insights. Therefore, we embark on a journey through time, delving into monthly and yearly rythms. 
@@ -33,7 +32,7 @@ Additionally, the onset of the Iraq War in 2003 further compounded to this decli
 Another significant historical event reflected in the data is the [Covid-19 pandemic](/covid.md).The sudden emergence of the virus in late 2019 had a dramatic impact on air travel in 2020. Government lockdowns and travel restrictions significantly reduced the demand, while public anxieties and public health concerns about flying during a pandemic led to further cancellations. The result of these factors was a significant drop in passenger traffic at SFO in 2020. While the airport has seen a gradual recovery as travel restrictions ease and people become more comfortable flying, it can be seen that it hasn't yet reached pre-pandemic passenger levels.
 
 ## Monthly analysis
-It is time to turn the attention to the monthly analysis, where we delve deeper into the data to uncover seasonal patterns and other valuable insights. Therefore, different fluctuations in passenger counts on a month-to-month basis are detected. Again, firstly, the total amount of passengers per month without taking into account the type was evaluated calculating the mean between all the years from our dataset.
+It is time to turn the attention to the monthly analysis, where we delve deeper into the data to uncover seasonal patterns and other valuable insights. To evaluate the passenger count per month, the mean calculation of each month between all the years of the dataset was computed. Therefore, different fluctuations in passenger counts on a month-to-month basis are detected. Again, firstly, the total amount of passengers per month without taking into account the type was evaluated calculating the mean between all the years from our dataset.
 
 <iframe src="images/total_passengers_monthly.html" width="100%" height="530px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 3:</strong> <em>Monthly trend of the mean passengers count between the years without taking into account the type</em></p>
@@ -45,7 +44,11 @@ Different conclusions could be made after analyzing this plot but firstly, we wa
 </div>
 <p style="text-align:center; font-size:small;"><strong>Figure 4:</strong> <em>Monthly trend of the mean passengers count between the years according to the type</em></p>
 
-EXPLANATION ABOUT:
-- again similarities between enplaned and deplaned passenger count
-- february as the lowest month
-- high peaks in summer months
+Similar to the previous section, the values of enplaned and deplaned passengers are similar and have a huge difference with the in transit ones. If we take a look to the seasonal trends, there are some conclusions that can be made. 
+
+Firstly, February is positioned as the month with the lowest passenger counts and can be attributed to the post-holiday period characterized by decreased travel demand as the fervor of holiday vacations subsides and individuals return to their routines. Moreover, the weather conditions at that time in some parts of the world influence as well.
+
+Conversely, the number of passengers during the summer months, specially July and August, corresponds to the peak of vacation season, when individuals and families embark on leisure travel. In addition, the weather in San Francisco is warmer during these months, as other many destinations.
+
+Finally, mention that in October, there is a small difference with the previous and following month on the amount of passengers. This is because in this month, five famous festivals take place so that is why the number of arrivals increases more than the departures one. These festivals are the Hardly Strictly Bluegrass, the Fleet Week, the Castro Street Fair, the Italian Heritage Parade and the Litquake.
+
