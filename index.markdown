@@ -26,13 +26,15 @@ We'll explore the geographical origins and destinations of passengers traveling 
 
 We'll analyze the functionality and traffic flow of different terminals and boarding areas of the airport. In particular, we'll examine how the density of passengers in different boarding areas changed over the period in exam and whether it was influenced by historical events.
 
+---
+
 # <span style="color: #3c7db7;">Historical Events</span>
 
-## [11 of September](/posts/11S.md)
+### [11 of September](/posts/11S.md)
 
 We will focus on studying the impact of the September 11th attack on the activities of San Francisco Airport. Our objective is to determine if certain airline companies have experienced a greater impact than others, and if the event affected air traffic, especially to and from certain parts of the world.
 
 
-## [COVID-19](/posts/covid.md)
+### [COVID-19](/posts/covid.md)
 
 We will zoom in the historical Covid-19 pandemic to understand how this success dramatically shifted the passenger numbers month-by-month. Additionally, geographical patterns will be analyzed to understand which countries were more affected by the restrictions.
