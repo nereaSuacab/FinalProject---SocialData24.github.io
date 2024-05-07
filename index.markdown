@@ -30,7 +30,8 @@ We'll analyze the functionality and traffic flow of different terminals and boar
 
 ## [11 of September](/posts/11S.md)
 
-wqedfvbg
+We will concentrate on studying the impact of the September 11th attack on the activities of San Francisco Airport. Did this affect one airline company more than another? Did air traffic decrease evenly or specifically to and from certain regions of the world?
+
 
 ## [COVID-19](/posts/covid.md)
 
