@@ -26,12 +26,11 @@ The line plot depicting the passenger counts of enplaned, deplaned, and in trans
 
 On the other hand, the similarity between enplaned and deplaned counts underscores the role as a primary point of departures and arrivals. This suggests a balanced flow of passengers entering and exiting the airport. This could be brought from the city's economy, cultural attractions and technological innovation that impulse both visitors and residents in and out of the region.
 
+Observing carefully the trends of the passenger count over the years, there are two periods where it noticeable decreases. The first decline, observed in 2003, can be attributed to two different events. Foremost among these factors is the historic [11 of September attacks](/11S.md) in 2001, an event that affected the aviation industry changing travel patterns and security protocols. The aftermath of this tragedy witnessed to a decrease in passenger traffic to SFO. 
 
+Additionally, the onset of the Iraq War in 2003 further compounded to this decline. The geopolitical uncertainties surrounding the conflict, together with the security concerns, resulted in a diminished interest in air travel. Moreover, San Francisco played a role since there were notable protests and demonstrations within the city during this time. These facts influenced travelers' perceptions and decisions regarding air travel to and from SFO.
 
-EXPLANATION ABOUT:
-- similarities between enplaned and deplaned passenger count
-- 11S and Iraq war in 2003
-- Covid
+Another significant historical event reflected in the data is the [Covid-19 pandemic](/covid.md).The sudden emergence of the virus in late 2019 had a dramatic impact on air travel in 2020. Government lockdowns and travel restrictions significantly reduced the demand, while public anxieties and public health concerns about flying during a pandemic led to further cancellations. The result of these factors was a significant drop in passenger traffic at SFO in 2020. While the airport has seen a gradual recovery as travel restrictions ease and people become more comfortable flying, it can be seen that it hasn't yet reached pre-pandemic passenger levels.
 
 ## Monthly analysis
 It is time to turn the attention to the monthly analysis, where we delve deeper into the data to uncover seasonal patterns and other valuable insights. Therefore, different fluctuations in passenger counts on a month-to-month basis are detected. Again, firstly, the total amount of passengers per month without taking into account the type was evaluated calculating the mean between all the years from our dataset.

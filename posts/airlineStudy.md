@@ -32,7 +32,7 @@ Moreover, we can also see the seasonal fluctuations align with typical travel pa
 
 # Important Accidents
 
-The impact of accidents on airlines can be significant, affecting not only the airline directly involved, but also the wider aviation ecosystem, including airports and other airlines. While major accidents, such as the 9/11 attacks ([11S](11S.md)), have had profound and lasting effects on the entire industry, individual incidents can also have significant repercussions.
+The impact of accidents on airlines can be significant, affecting not only the airline directly involved, but also the wider aviation ecosystem, including airports and other airlines. While major accidents, such as the 9/11 attacks ([11 of September](11S.md)), have had profound and lasting effects on the entire industry, individual incidents can also have significant repercussions.
 
 In the case of San Francisco International Airport (SFO), where two Air Canada accidents occurred in 2017, there could have been repercussions for Air Canada's operations and for the airport as a whole. 
 
