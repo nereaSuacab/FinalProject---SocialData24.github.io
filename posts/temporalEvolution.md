@@ -22,6 +22,12 @@ The flunctuations of the amount of passengers during the years are noticeable an
 <iframe src="images/passengers_type_yearly.html" width="100%" height="530px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly trend of the passengers count according to the type</em></p>
 
+The line plot depicting the passenger counts of enplaned, deplaned, and in transit passengers across the years reveals intriguing insights into the dynamics of San Francisco Airport. One notable observation is the striking contrast in counts between in transit passengers compared to enplaned and deplaned individuals. This can be attributed to the nature of SFO's operations and its geographical location. This airport is served as a hub for people traveling to and from North America, however, it may not be as frequently used as a connecting point between other continents.
+
+On the other hand, the similarity between enplaned and deplaned counts underscores the role as a primary point of departures and arrivals. This suggests a balanced flow of passengers entering and exiting the airport. This could be brought from the city's economy, cultural attractions and technological innovation that impulse both visitors and residents in and out of the region.
+
+
+
 EXPLANATION ABOUT:
 - similarities between enplaned and deplaned passenger count
 - 11S and Iraq war in 2003
