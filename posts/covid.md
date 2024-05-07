@@ -28,3 +28,14 @@ From April 2020 on, it can be seen a slow rise of the number of passengers that 
 
 We can observe that even though the amount of passengers achieved before the arrival of Covid-19 is not reached, it increased noticeable during the year 2022. So, observing the line graphs from the [Trends Over Time](/temporalEvolution.md), we can conclude that, even though the amount of travelers increased a lot after 2020, we are still recovering from the consequences that Covid-19 gave and some years are still missing to achieve the peak reached in 2018. 
 
+# Geographical Analysis
+As it has been explained in [Geographical Distribution of Passenger Traffic](passengerStudy.md), COVID-19 is one of the historical facts we can see by taking a quick look at the visualizations.
+
+Figure 2 provides an overview of the effects of the pandemic, particularly in terms of the implementation of travel restrictions in the different regions. In particular, Europe experienced a sharp decline in flight volumes, reflecting the severity of the impact of the virus on the continent.
+
+Regions such as Asia, Europe and Canada maintained lower flight volumes even as restrictions were eased, reflecting continued caution and compliance with security protocols. This caution was likely due to concerns about the possible resurgence of the virus and the emergence of new variants.
+
+In contrast, regions such as the US, Mexico and the Middle East experienced a gradual upturn in aviation activity from 2021 onwards. This resurgence can be attributed to several factors, including the success of vaccination campaigns, the gradual relaxation of travel restrictions and the pent-up demand for travel after long periods of blockades and restrictions.
+
+<iframe src="images/area_covid.html" width="100%" height="500px"></iframe>
+<p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
