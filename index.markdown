@@ -16,11 +16,12 @@ We'll delve into how passenger traffic fluctuate over time, uncovering trends, s
 
 # [Geographical Distribution of Passenger Traffic](/posts/passengerStudy.md)
 
-We'll explore the geographical origins and destinations of passengers traveling through the airport, considering how these patterns correlate with historical events or seasonal variations. Are there spikes in passenger traffic from certain regions during specific seasons or historical events?
+We'll explore the geographical origins and destinations of passengers traveling through the airport, considering how these patterns correlate with historical events or seasonal variations.
 
 # [Airline Performance Comparison](/posts/airlineStudy.md)
 
- We'll compare the performance of different airlines operating at the airport and relate their performance to significant historical events or seasonal patterns. Does airline performance fluctuate during peak travel seasons or major historical events like economic downturns or airline strikes?
+ We'll compare the performance of different airlines operating at the airport and relate their performance to significant historical events or seasonal patterns.
+ Moreover, we will also analyze the immpacts of different external events.
 
 # [Terminal and Boarding Area Analysis](/posts/airportTerminal.md)
 
