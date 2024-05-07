@@ -39,14 +39,14 @@ We can observe that even though the amount of passengers achieved before the arr
 # Geographical Analysis
 As it has been explained in [Geographical Distribution of Passenger Traffic](passengerStudy.md), COVID-19 is one of the historical facts we can see by taking a quick look at the visualizations.
 
-Figure 2 provides an overview of the effects of the pandemic, particularly in terms of the implementation of travel restrictions in the different regions. In particular, Europe experienced a sharp decline in flight volumes, reflecting the severity of the impact of the virus on the continent.
+Figure 3 provides an overview of the effects of the pandemic, particularly in terms of the implementation of travel restrictions in the different regions. In particular, Europe experienced a sharp decline in flight volumes, reflecting the severity of the impact of the virus on the continent.
 
 Regions such as Asia, Europe and Canada maintained lower flight volumes even as restrictions were eased, reflecting continued caution and compliance with security protocols. This caution was likely due to concerns about the possible resurgence of the virus and the emergence of new variants.
 
 In contrast, regions such as the US, Mexico and the Middle East experienced a gradual upturn in aviation activity from 2021 onwards. This resurgence can be attributed to several factors, including the success of vaccination campaigns, the gradual relaxation of travel restrictions and the pent-up demand for travel after long periods of blockades and restrictions.
 
 <iframe src="images/area_covid.html" width="100%" height="640px"></iframe>
-<p style="text-align:center; font-size:small;"><strong>Figure 2:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
+<p style="text-align:center; font-size:small;"><strong>Figure 3:</strong> <em>Yearly evolition of Regions form 2019 until 2023</em></p>
 
 <!-- Back button -->
 <button onclick="goBack()">Back</button>
