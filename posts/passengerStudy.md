@@ -26,7 +26,7 @@ Through the Geo Region of the flights we can understand the airport's changing s
 
 The GEO Region Provides a more detailed breakdown of the GEO Summary field to designate the region in the world where activity in relation to SFO arrived from or departed to without stops
 
-# Regions
+## Mapping Flight Destinations
 
 In the Figure 2 bar plot, we observe the distribution of flights across various regions analyzed. Notably, the United States emerges as the region with the highest volume of flights, exceeding 12,000 over the past 25 years. Following closely is Asia, with Europe ranking third.
 
@@ -40,7 +40,7 @@ The visualization shown in Figure 3 breaks down flights by continent, providing 
 <iframe src="images/map_heatmap.html" width="100%" height="500px"></iframe>
 <p style="text-align:center; font-size:small;"><strong>Figure 3:</strong> <em>Passenger count by continent</em></p>
 
-# Relationships over time
+## Tracking Changes in Flight Patterns
 
 Analyzing data from 2000 to 2023 allows us to trace the impact of significant historical events on different regions across the globe. By observing fluctuations in flight patterns during this period, we gain insights into how geopolitical, economic, and social developments have influenced air travel dynamics worldwide.
 

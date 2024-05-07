@@ -23,6 +23,7 @@ email: s233132@dtu.dk / s233219@dtu.dk / s212246@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Revealing insights into temporal trends, airline performance, 
   geography, terminals, and historical events.
+  (by s233132@dtu.dk / s233219@dtu.dk / s212246@dtu.dk)
 baseurl: "/FinalProject---SocialData24.github.io" # the subpath of your site, e.g. /blog
 url: "https://nereasuacab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
