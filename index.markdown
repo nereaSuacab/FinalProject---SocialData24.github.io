@@ -12,7 +12,7 @@ We're doing more than simply examining statistics and graphs in this investigati
 
 # [Trends Over Time](/posts/temporalEvolution.md)
 
-asdf
+We'll delve into how passenger traffic fluctuate over time, uncovering trends, seasonality and different factors that influence these patterns. Therefore, we can gain valuable insights into the SFO's busiest periods, the impact of external events, and how it integrates itself into the ever-changing flow of travel.
 
 # [Geographical Distribution of Passenger Traffic](/posts/passengerStudy.md)
 
@@ -34,4 +34,4 @@ wqedfvbg
 
 ## [COVID-19](/posts/covid.md)
 
-qwdeesdf
+We'll zoom in the historical Covid-19 pandemic to understand how this success dramatically shifted the passenger numbers month-by-month. Additionally, geographical patterns will be analyzed to understand which countries were more affected by the restrictions.
