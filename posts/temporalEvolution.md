@@ -35,7 +35,9 @@ It is time to turn the attention to the monthly analysis, where we delve deeper 
 
 Different conclusions could be made after analyzing this plot but firstly, we wanted to observe too the evolution of the number of passengers according to their type.
 
-<iframe src="images/passengers_type_monthly.html" width="100%" height="550px"></iframe>
+<div style="display: flex; justify-content: center;">
+    <iframe src="images/passengers_type_monthly.html" width="90%" height="560px"></iframe>
+</div>
 <p style="text-align:center; font-size:small;"><strong>Figure 4:</strong> <em>Monthly trend of the mean passengers count between the years according to the type</em></p>
 
 EXPLANATION ABOUT:
